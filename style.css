@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    font:20px Arial, sans-serif ;
+}
+
+.navbar{
+    background-color: rgb(147, 215, 187);
+}
+
+.quemsomos{
+    background-color: rgb(202, 191, 212);
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: bisque;
+}

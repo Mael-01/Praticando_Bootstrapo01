@@ -1,17 +1,19 @@
 @charset "UTF-8";
 
 body{
-    font:20px Arial, sans-serif ;
+    font-style: italic ;
 }
 
 .navbar{
-    background-color: rgb(65, 126, 101);
+    background-color: rgb(181, 206, 218);
+    color: rgb(0, 0, 0);
 
 }
 
 .quemsomos{
-    background-color: rgb(49, 119, 123);
-    color: white;
+    background-color: rgb(179, 220, 241);
+    color: rgb(10, 10, 10);
+    
 }
 
 .margin{
@@ -28,3 +30,6 @@ body{
     color: white;
 }
 
+.nav-link{
+    color: black;
+}
